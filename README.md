@@ -301,7 +301,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 ✨ Goals:
   - Contribute to more open-source AI projects
   - Build production-grade AI solutions
-  - Mentor junior developers
   - Advance the state-of-the-art in GenAI
 
 🤝 Let's Connect & Collaborate
@@ -309,7 +308,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 I'm always open to:
 🔗 Collaborating on innovative AI/ML projects
 💬 Discussing generative AI and LLM architectures
-🌱 Mentoring and knowledge sharing
 🤝 Open-source contributions
 📧 Professional opportunities
 
