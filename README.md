@@ -1,9 +1,8 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sanket%20Shakya&fontSize=80&fontColor=fff&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20ML%20Engineer&descAlignY=62&descAlign=50" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sanket%20Shakya&fontSize=80&fontColor=fff&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20ML%20Engineer">
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Generative+AI+%26+ML+Engineer;LLM+%26+RAG+Specialist;Open+Source+Contributor;FastAPI+%26+Backend+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Generative+AI+%26+ML+Engineer;LLM+%26+RAG+Specialist;Agentic+AI+Developer;FastAPI+%26+Python+Expert)](https://github.com/Sanket2329)
 
 ---
 
@@ -22,7 +21,7 @@
 
 **AI Engineer | Generative AI Specialist | ML Engineer**
 
-I'm a passionate AI engineer with expertise in building production-grade generative AI applications, leveraging cutting-edge LLMs, RAG systems, and agentic AI frameworks. I specialize in designing scalable backend systems using FastAPI, implementing vector search solutions, and contributing to open-source AI projects.
+I'm a passionate AI engineer with expertise in building production-grade generative AI applications, leveraging cutting-edge LLMs, RAG systems, and agentic AI frameworks. I specialize in designing scalable AI solutions and contributing to innovative open-source projects.
 
 - 🎓 **B.Tech in Artificial Intelligence & Data Science**
 - 💼 **Trainee Engineer (AI & Software Development)** at Amantya Technologies
@@ -260,9 +259,23 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanket2329&theme=highcontrast&background=0D1117&stroke=667EEA&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=667EEA&sideLabels=667EEA&dates=A78BFA)](https://github.com/Sanket2329)
+### 📈 GitHub Statistics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2329&theme=highcontrast&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&border_color=667EEA)](https://github.com/Sanket2329)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanket2329&theme=highcontrast&background=0D1117&stroke=667EEA&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=667EEA)](https://github.com/Sanket2329)
+
+</div>
+
+<div align="center">
+
+### 💻 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2329&theme=highcontrast&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&border_color=667EEA&exclude_repo=github-readme-stats)](https://github.com/Sanket2329)
+
+</div>
+
+<div align="center">
+
+### 📊 Overall GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2329&theme=highcontrast&show_icons=true&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&icon_color=667EEA&border_color=667EEA&include_all_commits=true&count_private=true)](https://github.com/Sanket2329)
 
@@ -275,6 +288,7 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 <div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanket2329&theme=algolia&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -316,6 +330,7 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
   - Build production-grade AI solutions
   - Mentor junior developers
   - Advance the state-of-the-art in GenAI
+
 🤝 Let's Connect & Collaborate
 
 I'm always open to:
@@ -325,3 +340,12 @@ I'm always open to:
 🤝 Open-source contributions
 📧 Professional opportunities
 
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting! Feel free to connect and collaborate.
+
+</div>
