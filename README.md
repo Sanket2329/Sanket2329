@@ -328,8 +328,8 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
   - Mentor junior developers
   - Advance the state-of-the-art in GenAI
 🤝 Let's Connect & Collaborate
-I'm always open to:
 
+I'm always open to:
 🔗 Collaborating on innovative AI/ML projects
 💬 Discussing generative AI and LLM architectures
 🌱 Mentoring and knowledge sharing
@@ -337,7 +337,7 @@ I'm always open to:
 📧 Professional opportunities
 <div align="center">
 📬 Get In Touch
-![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-shakya/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketshakya23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket2329)
 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer" alt="footer" width="100%"/> <div align="center">
