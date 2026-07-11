@@ -267,9 +267,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 
 <div align="center">
 
-### 💻 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2329&theme=highcontrast&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&border_color=667EEA&exclude_repo=github-readme-stats)](https://github.com/Sanket2329)
 
 </div>
 
@@ -278,18 +275,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 ### 📊 Overall GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2329&theme=highcontrast&show_icons=true&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&icon_color=667EEA&border_color=667EEA&include_all_commits=true&count_private=true)](https://github.com/Sanket2329)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanket2329&theme=algolia&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
