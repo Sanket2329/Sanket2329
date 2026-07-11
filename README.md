@@ -336,9 +336,3 @@ I'm always open to:
 🤝 Open-source contributions
 📧 Professional opportunities
 <div align="center">
-📬 Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-shakya/)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketshakya23@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket2329)
