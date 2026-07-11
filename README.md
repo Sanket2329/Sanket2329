@@ -1,7 +1,4 @@
-Make these code changes?
-README.md
 
-md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sanket%20Shakya&fontSize=80&fontColor=fff&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20ML%20Engineer&descAlignY=62&descAlign=50" alt="header" width="100%"/>
 
 <div align="center">
