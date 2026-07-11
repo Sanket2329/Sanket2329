@@ -335,4 +335,4 @@ I'm always open to:
 🌱 Mentoring and knowledge sharing
 🤝 Open-source contributions
 📧 Professional opportunities
-<div align="center">
+
