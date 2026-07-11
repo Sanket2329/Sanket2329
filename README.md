@@ -263,18 +263,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanket2329&theme=highcontrast&background=0D1117&stroke=667EEA&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=667EEA)](https://github.com/Sanket2329)
 
-</div>
-
-<div align="center">
-
-
-</div>
-
-<div align="center">
-
-### 📊 Overall GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2329&theme=highcontrast&show_icons=true&bg_color=0D1117&title_color=A78BFA&text_color=A78BFA&icon_color=667EEA&border_color=667EEA&include_all_commits=true&count_private=true)](https://github.com/Sanket2329)
 
 ---
 
