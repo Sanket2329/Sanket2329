@@ -274,8 +274,7 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanket2329&theme=radical&no-frame=true&row=1&column=6)](https://github.com/Sanket2329)
-
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanket2329&theme=algolia&row=1&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
@@ -285,16 +284,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2329&theme=high-contrast&bg_color=0D1117&color=A78BFA&line=667EEA&point=A78BFA)](https://github.com/Sanket2329)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub Contribution Snake](https://github.com/Sanket2329/Sanket2329/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
