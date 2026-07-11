@@ -355,8 +355,4 @@ I'm always open to:
 
 <div align="center">
 
-**Built with ❤️ | Last Updated: July 2026**
 
-*"The best way to predict the future is to build it with AI"* 🚀
-
-</div>
