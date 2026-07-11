@@ -274,7 +274,7 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanket2329&theme=highcontrast&no-frame=true&row=1&column=6)](https://github.com/Sanket2329)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanket2329&theme=radical&no-frame=true&row=1&column=6)](https://github.com/Sanket2329)
 
 </div>
 
