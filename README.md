@@ -82,14 +82,14 @@ I'm a passionate AI engineer with expertise in building production-grade generat
 
 ## 🧠 AI Expertise Matrix
 
-| Domain | Expertise | Tools & Frameworks |
-|--------|-----------|-------------------|
-| **Generative AI** | LLM Integration, Prompt Engineering, Fine-tuning | Claude, Gemini, ChatGPT, OpenAI |
-| **RAG Systems** | Semantic Search, Vector Databases, Context Retrieval | Qdrant, Pinecone, LangChain |
-| **Agentic AI** | Agent Design, Tool Integration, Reasoning Loops | AutoGPT, LangChain Agents, MCP |
-| **NLP** | Text Processing, Embeddings, NER | Hugging Face, NLTK, spaCy |
-| **Computer Vision** | Image Classification, Face Recognition, Object Detection | OpenCV, TensorFlow, CNN |
-| **Machine Learning** | Supervised Learning, Unsupervised Learning, Model Optimization | Scikit-learn, XGBoost, LightGBM |
+| Domain | Expertise | 
+|--------|-----------|
+| **Generative AI** | LLM Integration, Prompt Engineering, Fine-tuning | 
+| **RAG Systems** | Semantic Search, Vector Databases, Context Retrieval | 
+| **Agentic AI** | Agent Design, Tool Integration, Reasoning Loops | 
+| **NLP** | Text Processing, Embeddings, NER | |
+| **Computer Vision** | Image Classification, Face Recognition, Object Detection | 
+| **Machine Learning** | Supervised Learning, Unsupervised Learning, Model Optimization | 
 
 ---
 
