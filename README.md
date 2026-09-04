@@ -49,6 +49,7 @@ I'm a passionate AI engineer with expertise in building production-grade generat
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **AI & ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -60,6 +61,7 @@ I'm a passionate AI engineer with expertise in building production-grade generat
 ### **Frameworks & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-667EEA?style=for-the-badge)
 
@@ -96,30 +98,6 @@ I'm a passionate AI engineer with expertise in building production-grade generat
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>📦 DevForge-MCP</b> - Production-Ready Model Context Protocol Server</summary>
-
-> AI-powered MCP server enabling language models to understand and interact with local repositories through intelligent semantic code retrieval, repository indexing, and contextual search capabilities.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-667EEA?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-667EEA?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Key Features:**
-- 🔍 Semantic code retrieval with AI understanding
-- 📑 Comprehensive repository indexing
-- 🎯 Context-aware code search
-- 🏗️ Production-grade architecture
-- 🐳 Full Docker containerization
-
-[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329)
-
-</details>
-
-<details open>
 <summary><b>🔍 OpsLens</b> - AI-Powered RAG Incident Investigation Assistant</summary>
 
 > Enterprise-grade incident investigation platform leveraging RAG (Retrieval-Augmented Generation) with Google Gemini, vector search, and JWT authentication for secure incident analysis and resolution.
@@ -140,53 +118,75 @@ I'm a passionate AI engineer with expertise in building production-grade generat
 - 🚀 FastAPI backend
 - 🔗 LLM-powered incident analysis
 
-[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329)
+[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329/OpsLens)
 
 </details>
 
-<details>
-<summary><b>🎭 AI Interview Fraud Detection</b> - Computer Vision-Based Liveness Detection</summary>
+<details open>
+<summary><b>📦 DevForge-MCP</b> - Production-Ready Model Context Protocol Server</summary>
 
-> Advanced computer vision system detecting interview fraud through face recognition, liveness detection, and behavioral analysis using deep learning models.
+> AI-powered MCP server enabling language models to understand and interact with local repositories through intelligent semantic code retrieval, repository indexing, and contextual search capabilities. Includes 44 developer tools, multi-project workspace management, and Git integration.
 
 **Tech Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEE?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-667EEA?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-667EEA?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Key Features:**
-- 👤 Face recognition and detection
-- 👁️ Liveness detection algorithms
-- 🔍 Behavioral anomaly detection
-- 🧠 CNN-based deep learning models
-- 📹 Real-time video analysis
+- 🔍 Semantic code retrieval with AI understanding
+- 📑 Comprehensive repository indexing
+- 🎯 Context-aware code search across 44 developer tools
+- 🏗️ Multi-project workspace management
+- 🐳 Full Docker containerization
 
-[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329)
+[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329/DevForge-MCP)
 
 </details>
 
-<details>
-<summary><b>📊 Customer Behavior Analysis</b> - ML-Based Customer Intelligence Platform</summary>
+<details open>
+<summary><b>🐋 Baleen Whale Sound Event Detection</b> - GPU-Accelerated Bioacoustics Pipeline</summary>
 
-> Comprehensive customer analytics platform leveraging machine learning to analyze purchasing patterns, behavioral trends, and generate actionable business insights.
+> An automated Sound Event Detection (SED) pipeline that identifies, classifies, and temporally localizes baleen whale vocalizations in Southern Ocean hydrophone recordings, built for the Antarctic Blue & Fin Whale Acoustic Library challenge. Uses a CNN-RNN (CRNN) architecture — a 5-layer 2D CNN frontend feeding a bidirectional GRU — over STFT spectrograms, with a Butterworth high-pass filter and dynamic resampling for signal preprocessing.
 
 **Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-ee4c2c?style=flat-square&logo=pytorch)
+![DCASE](https://img.shields.io/badge/BioDCASE-Challenge-green?style=flat-square)
 
 **Key Features:**
-- 📈 Advanced data analysis and visualization
-- 🎯 Customer segmentation models
-- 📊 Trend analysis and forecasting
-- 🔗 SQL-based data pipelines
-- 📉 BI dashboards and reporting
+- 🎧 CNN-RNN (CRNN) architecture with frame-level multi-label detection for overlapping calls
+- 🔊 10 Hz Butterworth high-pass filtering + dynamic resampling for hydrophone noise handling
+- ⚖️ Vectorized balanced negative-clip mining to address class imbalance
+- 🍎 Apple Silicon (MPS) GPU acceleration support
+- 📊 Greedy IoU-based cross-site evaluation pipeline with Raven-compatible outputs
 
-[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329)
+[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329/whale-detection)
+
+</details>
+
+<details open>
+<summary><b>📈 LeadSense</b> - Multi-Tenant CRM & Sales Pipeline Platform</summary>
+
+> A production-ready, multi-tenant CRM platform for sales teams covering the full lead lifecycle — from capture to close — with role-based access control, activity tracking, email invitations, audit logging, and a real-time dashboard. Built on Clean Architecture with a .NET 10 Minimal API backend and a React 19 + TypeScript frontend.
+
+**Tech Stack:**
+![.NET](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Key Features:**
+- 🏢 Full multi-tenant isolation with SuperAdmin platform management
+- 👥 Role-based access control (SuperAdmin / TenantAdmin / User)
+- 📋 End-to-end lead pipeline: New → Contacted → Qualified → Proposal Sent → Won/Lost
+- 🔒 JWT auth, BCrypt hashing, and rate-limited login endpoint
+- 🔍 Full audit logging with per-entity trails and email invitations via Resend
+
+[![Repository](https://img.shields.io/badge/View%20Repository-667EEA?style=for-the-badge&logo=github)](https://github.com/Sanket2329/LeadSense)
 
 </details>
 
@@ -261,7 +261,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 ### 📈 GitHub Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanket2329&theme=highcontrast&background=0D1117&stroke=667EEA&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=667EEA)](https://github.com/Sanket2329)
-
 
 ---
 
