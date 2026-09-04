@@ -264,16 +264,6 @@ Actively contributing to leading AI/ML open-source projects with multiple merged
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2329&theme=high-contrast&bg_color=0D1117&color=A78BFA&line=667EEA&point=A78BFA)](https://github.com/Sanket2329)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
